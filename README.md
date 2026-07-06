@@ -135,20 +135,24 @@ Data Engineering  ·   System Design   ·   DSA   ·   Machine Learning
 
 <div align="center">
 
-<a href=" www.linkedin.com/in/jishnu-b-a2954933b "><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jishnu-b-a2954933b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-</div>
+<a href="https://github.com/Jishnuvpz" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<br/>
+<a href="https://your-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
-## ✨ Fun Fact
+<a href="mailto:jishuchoorakode@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-> I enjoy building projects that combine AI, databases, backend systems, and automation into practical real-world solutions.
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
-<br/>
-
-<div align="center">
-<sub>Thanks for stopping by — always open to internships, collaborations, and interesting problems to solve.</sub>
 </div>
