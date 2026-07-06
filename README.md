@@ -103,18 +103,13 @@ Data Engineering  ·   System Design   ·   DSA   ·   Machine Learning
 
 <br/>
 
-## 💡 Featured Interests
+## 🚀 Currently Building
 
-<img src="https://img.shields.io/badge/-Backend_Development-1a1a2e?style=flat-square&color=333" />
-<img src="https://img.shields.io/badge/-Data_Analytics-1a1a2e?style=flat-square&color=333" />
-<img src="https://img.shields.io/badge/-AI_Applications-1a1a2e?style=flat-square&color=333" />
-<img src="https://img.shields.io/badge/-NLP-1a1a2e?style=flat-square&color=333" />
-<img src="https://img.shields.io/badge/-Databases-1a1a2e?style=flat-square&color=333" />
-<img src="https://img.shields.io/badge/-Automation-1a1a2e?style=flat-square&color=333" />
-<img src="https://img.shields.io/badge/-Cloud_Infrastructure-1a1a2e?style=flat-square&color=333" />
-<img src="https://img.shields.io/badge/-Open_Source-1a1a2e?style=flat-square&color=333" />
-
-<br/>
+- 🧠 AI-powered Document Intelligence Platform (SafeData 2.0)
+- ⚡ REST APIs with FastAPI & MongoDB
+- ☁️ Cloud Infrastructure using AWS
+- 📊 Data Analytics & Visualization Projects
+- 🛡 NLP Applications with Hugging Face
 
 ## 📊 GitHub Statistics
 
